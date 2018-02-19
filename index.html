@@ -1,0 +1,88 @@
+ <!DOCTYPE html>
+<html>
+	<head>
+	    <title>Valence | Build Potential</title>
+	    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+        <link rel="stylesheet" href="css/style.css">
+		<script src="https://code.jquery.com/jquery-latest.js"></script>
+		<script src="js/smooth-scroll.js" type="text/javascript"></script>
+        
+        <script>
+            $(document).ready(function(){
+              $(".button-menu").click(function(){
+                $(this).toggleClass("is-active");
+              });
+            });
+            
+            $(function() {     
+              $('.button-menu').on('click', function(e) {
+                e.preventDefault();
+                $('.menu-1').toggleClass('nav-active');
+                $('nav').toggleClass('nav-fixed');
+
+              });
+            });
+        </script>
+        
+	</head>
+
+	<body id="home">
+        <nav id='top' class='layout-wrapper'>
+                <a class='logo-valence' href='index.html'>Valence</a>
+                <div class="button-menu" id="button-menu">
+                  <span class="line"></span>
+                  <span class="line"></span>
+                  <span class="line"></span>
+                </div>
+            <ul class='menu-1'>
+                <li class='company'><a href=''>Company</a>
+                    <ul class='menu-2'>
+                        <li class='valence-consulting'><a href=''>Valcence Consulting</a></li>
+                        <li class='valence-digital'><a href=''>Valcence Digital</a></li>
+                        <li class='valence-marketing'><a href=''>Valcence Marketing</a></li>
+                        <li class='industries'><a href=''>Industries</a></li>
+                        <li class='careers'><a href=''>Careers</a></li>
+                    </ul>
+                </li>
+                <li class='insights'><a href=''>Insights</a></li>
+                <li class='contact'><a href=''>Contact</a></li>
+                <li class='social-email'><a href=''>Email Us</a><li>
+                <li class='social-linkedin'><a href=''>LinkedIn</a></li>
+                <li class='social-jobvite'><a href=''>Jobvite</a></li>
+                <li class='social-medium'><a href=''>Medium</a></li>
+            </ul>
+            <ul class='menu-social'>
+
+            </ul>
+        </nav>
+        
+        
+		<footer class='theme-dark background-gradient-1'>
+            <section class='form-contact layout-wrapper'>
+                <div class=''>
+                    <p>Interested?</p>
+                    <h2>Let's Talk</h2>
+                    <p>We'd love to hear about your ideas or answer any questions you may have.</p>
+                </div>
+                <form>
+                    <input type="text" name="name" placeholder="Enter your name" required><br>
+                    <input type="text" name="email" placeholder="Enter your email" required><br>
+                    <textarea name="message" form="">Enter text here...</textarea>
+                    <input type="submit" value="Submit">   
+                </form>
+            </section>
+            <section class='layout-wrapper'>
+                <div class='layout-flex social-links'>
+                    <a class='social-email' href=''>Email Us</a>
+                    <a class='social-linkedin' href=''>LinkedIn</a>
+                    <a class='social-jobvite' href=''>Jobvite</a>
+                    <a class='social-medium' href=''>Medium</a>
+                </div>
+                <p class=''>2018 Valence</p>            
+            </section>
+		</footer>
+
+	</body>
+</html>		
