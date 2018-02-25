@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="911px" height="728px" viewBox="0 0 911 728" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.2027264%" y1="3.2027264%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-01-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-529.000000, -568.000000)">
+        <g id="Group-4" transform="translate(518.000000, 562.000000)">
+            <text id="Delivery-Leadership" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#FFFFFF">
+                <tspan x="695" y="276">Delivery </tspan>
+                <tspan x="695" y="298">Leadership</tspan>
+            </text>
+            <text id="Interactive-Innovati" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#FFFFFF">
+                <tspan x="695" y="458">Interactive  </tspan>
+                <tspan x="695" y="480">Innovation</tspan>
+            </text>
+            <text id="Digital-Integration" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#FFFFFF">
+                <tspan x="489.303125" y="150">Digital</tspan>
+                <tspan x="470.947656" y="172">Integration</tspan>
+            </text>
+            <text id="Design-Services" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#FFFFFF">
+                <tspan x="283.134375" y="278">Design </tspan>
+                <tspan x="272.532812" y="300">Services</tspan>
+            </text>
+            <text id="Digital-Automation" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#FFFFFF">
+                <tspan x="285.40625" y="458">Digital </tspan>
+                <tspan x="242.945312" y="480">Automation</tspan>
+            </text>
+            <text id="Modern-AI-&amp;-ML-Syste" font-family="OpenSans-SemiBold, Open Sans" font-size="16" font-weight="500" fill="#FFFFFF">
+                <tspan x="466.000781" y="589">Modern AI &amp; </tspan>
+                <tspan x="468.524219" y="611">ML Systems</tspan>
+            </text>
+            <g id="Group-11" transform="translate(468.000000, 332.000000)" fill="#FFFFFF">
+                <path d="M57.4759137,15.4227998 C57.0526647,15.6550959 56.3611218,15.6576486 55.9387583,15.4270543 L47.6234201,10.892601 C47.2001711,10.6611558 46.5059719,10.6611558 46.0827229,10.892601 L37.7709266,15.4270543 C37.348563,15.6576486 36.6543638,15.6576486 36.2320002,15.4270543 L27.9166621,10.892601 C27.4942985,10.6611558 27.4942985,10.2842065 27.9175475,10.0527613 L46.0561591,0.1729457 C46.4794081,-0.0576485668 47.1727219,-0.0576485668 47.5959709,0.1729457 L65.6823405,10.0399978 C66.104704,10.2705921 66.106475,10.6517959 65.6841114,10.884092 L57.4759137,15.4227998 Z" id="logo-upper"></path>
+                <path d="M0,27.1095259 C0,26.4818573 0.442760852,26.2211861 0.984038824,26.5298756 L45.2136964,51.8126908 C45.7549744,52.123667 46.6416285,52.123667 47.1840388,51.8126908 L91.4148288,26.5310189 C91.9561068,26.2211861 92.4,26.4818573 92.4,27.1118125 L92.4,53.7048433 C92.4,54.3336553 91.9572391,55.1019492 91.4159612,55.4129253 L47.2168779,80.7666248 C46.6755999,81.0776009 45.7900782,81.0776009 45.2488002,80.7677681 L1.02367215,55.4323613 C0.482394176,55.1225285 0.037368563,54.3542346 0.037368563,53.7242793 L0,27.1095259 Z" id="logo-lower"></path>
+            </g>
+            <path d="M570,346 L662,292" id="Line-Copy-7" stroke="url(#linearGradient-1)" opacity="0.4" stroke-linecap="round"></path>
+            <path d="M366,279 L504.736887,199.300086" id="Line-Copy-11" stroke="#FFFFFF" stroke-width="2" opacity="0.5" stroke-linecap="square"></path>
+            <path d="M525.263113,280 L664,200.300086" id="Line-Copy-12" stroke="#FFFFFF" stroke-width="2" opacity="0.5" stroke-linecap="square" transform="translate(594.631557, 240.150043) scale(-1, 1) translate(-594.631557, -240.150043) "></path>
+            <path d="M366,548.811605 L504.672664,469" id="Line-Copy-13" stroke="#FFFFFF" stroke-width="2" opacity="0.5" stroke-linecap="round" transform="translate(435.336332, 508.905803) scale(1, -1) translate(-435.336332, -508.905803) "></path>
+            <path d="M525.263113,549.699914 L664,470" id="Line-Copy-14" stroke="#FFFFFF" stroke-width="2" opacity="0.5" stroke-linecap="round" transform="translate(594.631557, 509.849957) scale(-1, -1) translate(-594.631557, -509.849957) "></path>
+            <path d="M570,458 L662,404" id="Line-Copy-9" stroke="#FFFFFF" stroke-width="2" opacity="0.1" stroke-linecap="square" transform="translate(616.000000, 431.000000) scale(1, -1) translate(-616.000000, -431.000000) "></path>
+            <path d="M369,348 L461,294" id="Line-Copy-8" stroke="#FFFFFF" stroke-width="2" opacity="0.1" stroke-linecap="square" transform="translate(415.000000, 321.000000) scale(-1, 1) translate(-415.000000, -321.000000) "></path>
+            <path d="M369,458 L461,404" id="Line-Copy-10" stroke="#FFFFFF" stroke-width="2" opacity="0.1" stroke-linecap="square" transform="translate(415.000000, 431.000000) scale(-1, -1) translate(-415.000000, -431.000000) "></path>
+            <path d="M357.5,294.999203 L357.5,450.007258" id="Line-2" stroke="#FFFFFF" stroke-width="2" opacity="0.5" stroke-linecap="round"></path>
+            <path d="M673,296.992924 L673,451.992924" id="Line-2-Copy" stroke="#FFFFFF" stroke-width="2" opacity="0.5" stroke-linecap="round"></path>
+            <polygon id="Polygon-Copy-28" fill="#FFFFFF" points="514.495191 187 520.990381 190.75 520.990381 198.25 514.495191 202 508 198.25 508 190.75"></polygon>
+            <polygon id="Polygon-Copy-32" fill="#FFFFFF" points="673.495191 279 679.990381 282.75 679.990381 290.25 673.495191 294 667 290.25 667 282.75"></polygon>
+            <polygon id="Polygon-Copy-33" fill="#FFFFFF" points="672.495191 455 678.990381 458.75 678.990381 466.25 672.495191 470 666 466.25 666 458.75"></polygon>
+            <polygon id="Polygon-Copy-34" fill="#FFFFFF" points="514.495191 545 520.990381 548.75 520.990381 556.25 514.495191 560 508 556.25 508 548.75"></polygon>
+            <polygon id="Polygon-Copy-35" fill="#FFFFFF" points="356.495191 455 362.990381 458.75 362.990381 466.25 356.495191 470 350 466.25 350 458.75"></polygon>
+            <polygon id="Polygon-Copy-36" fill="#FFFFFF" points="357.495191 277 363.990381 280.75 363.990381 288.25 357.495191 292 351 288.25 351 280.75"></polygon>
+            <g id="Group-5-Copy-3" opacity="0.5" transform="translate(294.500000, 606.500000) rotate(-180.000000) translate(-294.500000, -606.500000) translate(263.000000, 600.000000)" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M7.9953105,1.5 L34.6529464,1.5" id="Line"></path>
+                <path d="M49.5,11.5 L62.6529464,11.5" id="Line-Copy-3"></path>
+                <path d="M0,11.5 L6.65294644,11.5" id="Line-Copy-4"></path>
+                <path d="M42.5,1.5 L49.170832,1.5" id="Line-Copy"></path>
+                <path d="M13.8886386,11.5 L42.0060967,11.5" id="Line-Copy-2"></path>
+            </g>
+            <g id="details-up" transform="translate(746.000000, 348.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M-5,22 L8.15294644,22" id="Line" transform="translate(1.500000, 22.000000) rotate(-90.000000) translate(-1.500000, -22.000000) "></path>
+                <path d="M-2,4 L4.67083203,4" id="Line-Copy" transform="translate(1.500000, 4.000000) rotate(-90.000000) translate(-1.500000, -4.000000) "></path>
+                <path d="M1,18 L21.5060967,18" id="Line-Copy-2" transform="translate(11.500000, 18.000000) rotate(-90.000000) translate(-11.500000, -18.000000) "></path>
+            </g>
+            <path d="M685.027778,279.975 L896.972222,165.025" id="Line-2-Copy-28" stroke="url(#linearGradient-1)" opacity="0.4" stroke-linecap="round"></path>
+            <path d="M175.784248,469 L349.215752,568.606795" id="Line-2-Copy-32" stroke="url(#linearGradient-1)" opacity="0.4" stroke-linecap="round" transform="translate(262.500000, 518.803398) scale(1, -1) translate(-262.500000, -518.803398) "></path>
+            <path d="M243,223 L348.484432,280.210442" id="Line-2-Copy-31" stroke="url(#linearGradient-1)" opacity="0.4" stroke-linecap="round"></path>
+            <path d="M156,0 L507.614772,190.701474" id="Line-2-Copy-34" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <g id="Group-15" transform="translate(332.000000, 555.000000)" opacity="0.2" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M0,0 L221,123" id="Line-2-Copy-35"></path>
+            </g>
+            <g id="Group-15-Copy" transform="translate(675.000000, 95.000000)" opacity="0.2" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M0,0 L221,123" id="Line-2-Copy-35"></path>
+            </g>
+            <path d="M359,76 L359,268.5" id="Line-2-Copy-38" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <path d="M673.5,475.5 L673.5,586" id="Line-2-Copy-39" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round" transform="translate(673.500000, 530.500000) scale(1, -1) translate(-673.500000, -530.500000) "></path>
+            <path d="M676.5,36.5 L676.5,296.824797" id="Line-2-Copy-40" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round" transform="translate(676.500000, 166.500000) scale(1, -1) translate(-676.500000, -166.500000) "></path>
+            <path d="M358.5,482.5 L358.5,742.824797" id="Line-2-Copy-41" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round" transform="translate(358.500000, 612.500000) scale(1, -1) translate(-358.500000, -612.500000) "></path>
+            <path d="M873.740699,574.65693 L664,458" id="Line-2-Copy-37" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <g id="Group-14" transform="translate(672.000000, 288.000000)" opacity="0.2" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M292,163 L0,0" id="Line-2-Copy-42"></path>
+            </g>
+            <path d="M0,263 L347,456" id="Line-2-Copy-36" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1344px" viewBox="0 0 1440 1344" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 10 Copy 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#009FC9" offset="0%"></stop>
+            <stop stop-color="#18007F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-01-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, -559.000000)">
+        <polygon id="Rectangle-10-Copy-14" fill="url(#linearGradient-1)" points="0 691.921875 1440 559.40625 1440 1903 0 1903"></polygon>
+    </g>
+</svg>

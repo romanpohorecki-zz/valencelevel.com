@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="361px" height="222px" viewBox="0 0 361 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>valence-consulting</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.2027264%" y1="3.2027264%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.3985687%" y1="94.6802544%" x2="50%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="100%" x2="85.890625%" y2="15.6522529%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-01-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-136.000000, -1324.000000)">
+        <g id="valence-consulting" transform="translate(135.000000, 1323.000000)">
+            <g id="Group-23" transform="translate(83.000000, 139.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M0,0 L150,86" id="Line-2-Copy-32" transform="translate(75.000000, 43.000000) scale(1, -1) translate(-75.000000, -43.000000) "></path>
+            </g>
+            <path d="M3,40 L176.431503,139.606795" id="Line-2-Copy-33" stroke="url(#linearGradient-1)" opacity="0.4" stroke-linecap="round" transform="translate(89.715752, 89.803398) scale(1, -1) translate(-89.715752, -89.803398) "></path>
+            <path d="M234,89 L321,139" id="Line-2-Copy-43" stroke="url(#linearGradient-2)" opacity="0.4" stroke-linecap="round" transform="translate(277.500000, 114.000000) scale(1, -1) translate(-277.500000, -114.000000) "></path>
+            <g id="Group-8" transform="translate(203.500000, 25.500000) scale(-1, -1) translate(-203.500000, -25.500000) translate(166.000000, 4.000000)" opacity="0.4" stroke="url(#linearGradient-3)" stroke-linecap="round">
+                <path d="M0,43 L75,0" id="Line-2-Copy-44"></path>
+            </g>
+            <path d="M0,69 L119,139" id="Line-2-Copy-45" stroke="url(#linearGradient-1)" opacity="0.4" stroke-linecap="round"></path>
+            <path d="M228,71 L326,128" id="Line-2-Copy-46" stroke="url(#linearGradient-1)" opacity="0.4" stroke-linecap="round"></path>
+            <path d="M263,0 L361,57" id="Line-2-Copy-50" stroke="url(#linearGradient-1)" opacity="0.4" stroke-linecap="round"></path>
+            <g id="Group-9" transform="translate(72.000000, 46.000000) rotate(-180.000000) translate(-72.000000, -46.000000) translate(10.000000, 10.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M0,0 L124,72" id="Line-2-Copy-51"></path>
+            </g>
+            <g id="Group-9-Copy" transform="translate(263.000000, 155.000000) rotate(-180.000000) translate(-263.000000, -155.000000) translate(234.000000, 138.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M0,0 L58,34" id="Line-2-Copy-51"></path>
+            </g>
+            <g id="Group-16" transform="translate(2.000000, 141.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <g id="Group-9-Copy-2" transform="translate(61.000000, 36.000000) scale(1, -1) rotate(-180.000000) translate(-61.000000, -36.000000) ">
+                    <path d="M0,0 L122,72" id="Line-2-Copy-51"></path>
+                </g>
+            </g>
+            <path d="M119,9.9661891 L119,113.5" id="Line-2-Copy-38" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <path d="M290,22.9661891 L290,126.5" id="Line-2-Copy-48" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <path d="M311,213 L311,143.5" id="Line-2-Copy-52" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <path d="M233,205.5 L233,114.5" id="Line-2-Copy-47" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round" transform="translate(233.000000, 160.000000) scale(1, -1) translate(-233.000000, -160.000000) "></path>
+            <g id="Group" transform="translate(118.736527, 41.000000)">
+                <polygon id="Polygon-Copy-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="57.2634731 0 114.526946 32.75 114.526946 98.25 57.2634731 131 5.32907052e-15 98.25 -3.01980663e-14 32.75"></polygon>
+                <g id="Group-5" transform="translate(22.748503, 47.850299)" fill="#FFFFFF">
+                    <path d="M34.2632592,9.33125154 C37.0558322,12.4609289 38.7623341,16.5817661 38.7623341,21.0994481 C38.7623341,30.8573872 30.8299551,38.7968244 21.0800563,38.7968244 C11.330792,38.7968244 3.39841288,30.8573872 3.39841288,21.0994481 C3.39841288,11.340239 11.330792,3.40143675 21.0800563,3.40143675 C22.4300325,3.40143675 23.7432143,3.5589048 25.0069138,3.84653796 C25.9610324,2.88458599 26.9919118,1.99882824 28.0925738,1.2051385 C25.8975936,0.427322556 23.5383072,0 21.0800563,0 C9.45617742,0 0,9.46522637 0,21.0994481 C0,32.7330348 9.45617742,42.1976262 21.0800563,42.1976262 C32.7033008,42.1976262 42.160747,32.7330348 42.160747,21.0994481 C42.160747,16.0179289 40.3483024,11.3599225 37.347016,7.71593418 C36.2482572,8.12865285 35.2148402,8.67344148 34.2632592,9.33125154" id="Fill-1"></path>
+                    <path d="M42.1604298,0 C30.5371853,0 21.0803735,9.46522637 21.0803735,21.0994481 C21.0803735,26.1809673 22.8947212,30.8396086 25.8960077,34.4835969 C26.9934977,34.0708782 28.0275491,33.5254546 28.9791301,32.8676446 C26.1852883,29.7379672 24.4794208,25.6164951 24.4794208,21.0994481 C24.4794208,11.340239 32.4117999,3.40143675 42.1604298,3.40143675 C51.9103286,3.40143675 59.8427076,11.340239 59.8427076,21.0994481 C59.8427076,30.8573872 51.9103286,38.7968244 42.1604298,38.7968244 C40.8148943,38.7968244 39.5042501,38.6399913 38.2424537,38.3536281 C37.2870664,39.3168499 36.2492088,40.1975281 35.1460092,40.9924877 C37.3416237,41.7703037 39.702179,42.1976262 42.1604298,42.1976262 C53.7836743,42.1976262 63.2411205,32.7330348 63.2411205,21.0994481 C63.2411205,9.46522637 53.7836743,0 42.1604298,0" id="Fill-4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

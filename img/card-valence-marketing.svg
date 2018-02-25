@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="352px" height="221px" viewBox="0 0 352 221" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>valence-marketing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.2027264%" y1="3.2027264%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop-01-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-949.000000, -1326.000000)">
+        <g id="valence-marketing" transform="translate(950.000000, 1323.000000)">
+            <g id="details-motion-2" opacity="0.121999547" transform="translate(102.000000, 13.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M0.5,1.5 L13.6529464,1.5" id="Line"></path>
+                <path d="M28.5,11.5 L41.6529464,11.5" id="Line-Copy-3"></path>
+                <path d="M21.5,1.5 L28.170832,1.5" id="Line-Copy"></path>
+                <path d="M0.5,11.5 L21.0060967,11.5" id="Line-Copy-2"></path>
+            </g>
+            <g id="Group-3" transform="translate(118.000000, 41.000000)" stroke="#FFFFFF" stroke-width="2">
+                <polygon id="Polygon-Copy-23" stroke-linecap="round" stroke-linejoin="round" points="57.1177871 0 113.302216 32.75 113.302216 98.25 57.1177871 131 0.933358006 98.25 0.933358006 32.75"></polygon>
+                <path d="M70,79 L70,84.731175 L60.0632631,79 L38,79 C36.8954305,79 36,78.1045695 36,77 L36,53 C36,51.8954305 36.8954305,51 38,51 L75,51 C76.1045695,51 77,51.8954305 77,53 L77,77 C77,78.1045695 76.1045695,79 75,79 L70,79 Z" id="Combined-Shape"></path>
+            </g>
+            <g id="Group-18-Copy-2" transform="translate(59.500000, 38.500000) rotate(-180.000000) translate(-59.500000, -38.500000) translate(0.000000, 4.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M0,0 L119,69" id="Line-2-Copy-56"></path>
+            </g>
+            <g id="Group-18-Copy-3" transform="translate(291.500000, 174.500000) rotate(-180.000000) translate(-291.500000, -174.500000) translate(232.000000, 140.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M0,0 L119,69" id="Line-2-Copy-56"></path>
+            </g>
+            <g id="Group-18-Copy-4" transform="translate(90.500000, 123.500000) rotate(-360.000000) translate(-90.500000, -123.500000) translate(31.000000, 89.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M0,0 L119,69" id="Line-2-Copy-56"></path>
+            </g>
+            <g id="Group-16-Copy" transform="translate(230.000000, 28.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <g id="Group-9-Copy-2" transform="translate(39.000000, 23.000000) scale(1, -1) rotate(-180.000000) translate(-39.000000, -23.000000) ">
+                    <path d="M0,0 L78,46" id="Line-2-Copy-51"></path>
+                </g>
+            </g>
+            <g id="Group-24" transform="translate(83.000000, 168.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <g id="Group-19-Copy">
+                    <path d="M0,0 L96,57" id="Line-2-Copy-51" transform="translate(48.000000, 28.500000) scale(1, -1) translate(-48.000000, -28.500000) "></path>
+                </g>
+            </g>
+            <g id="Group-19-Copy-3" transform="translate(70.000000, 57.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M0,0 L77,46" id="Line-2-Copy-51" transform="translate(38.500000, 23.000000) scale(1, -1) translate(-38.500000, -23.000000) "></path>
+            </g>
+            <g id="Group-19-Copy-2" transform="translate(269.500000, 116.000000) rotate(-180.000000) translate(-269.500000, -116.000000) translate(231.000000, 93.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M0,0 L77,46" id="Line-2-Copy-51" transform="translate(38.500000, 23.000000) scale(1, -1) translate(-38.500000, -23.000000) "></path>
+            </g>
+            <path d="M120,9.9661891 L120,113.5" id="Line-2-Copy-60" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <path d="M233,0.194799713 L233,92.5" id="Line-2-Copy-61" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <path d="M77,193.533811 L77,90" id="Line-2-Copy-62" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <path d="M319,129.533811 L319,26" id="Line-2-Copy-63" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <path d="M230,193.533811 L230,90" id="Line-2-Copy-66" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <path d="M13,138.533811 L13,35" id="Line-2-Copy-65" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <path d="M350,165.533811 L350,62" id="Line-2-Copy-64" stroke="url(#linearGradient-1)" opacity="0.2" stroke-linecap="round"></path>
+            <g id="details-up" transform="translate(46.000000, 121.000000)" opacity="0.4" stroke="url(#linearGradient-1)" stroke-linecap="round">
+                <path d="M-5,22 L8.15294644,22" id="Line" transform="translate(1.500000, 22.000000) rotate(-90.000000) translate(-1.500000, -22.000000) "></path>
+                <path d="M-2,4 L4.67083203,4" id="Line-Copy" transform="translate(1.500000, 4.000000) rotate(-90.000000) translate(-1.500000, -4.000000) "></path>
+                <path d="M1,18 L21.5060967,18" id="Line-Copy-2" transform="translate(11.500000, 18.000000) rotate(-90.000000) translate(-11.500000, -18.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
