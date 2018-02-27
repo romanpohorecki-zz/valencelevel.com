@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="30px" viewBox="0 0 21 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop-11-Contact-Success" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-179.000000, -818.000000)">
+        <g id="Group" transform="translate(175.000000, 809.000000)" fill="#00E29F" fill-rule="nonzero">
+            <path d="M25,19.5955679 C25,21.6315789 24.4643711,23.4598338 23.4761358,24.9972299 L14.5,39 L5.52352941,25.2049861 C4.7,23.9168975 4,22.2548476 4,19.5955679 C4,13.7783934 8.69378288,9 14.5,9 C20.3058824,9 25,13.7783934 25,19.5955679 Z M10.1352941,18.7645429 C10.1352941,21.132964 12.1526064,23.0443213 14.5,23.0443213 C16.8470588,23.0443213 18.7411765,21.132964 18.7411765,18.7645429 C18.7411765,16.3961219 16.8470588,14.3601108 14.5,14.3601108 C12.1526064,14.3601108 10.1352941,16.3961219 10.1352941,18.7645429 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

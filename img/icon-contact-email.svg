@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="20px" viewBox="0 0 25 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-email copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop-11-Contact-Success" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-175.000000, -958.000000)">
+        <g id="Group" transform="translate(175.000000, 809.000000)" fill="#00E29F">
+            <path d="M1,149 L24,149 C24.5522847,149 25,149.447715 25,150 L25,168 C25,168.552285 24.5522847,169 24,169 L1,169 C0.44771525,169 6.76353751e-17,168.552285 0,168 L0,150 C-6.76353751e-17,149.447715 0.44771525,149 1,149 Z M3,151 L12.375305,158.500244 C12.7405236,158.792419 13.2594764,158.792419 13.624695,158.500244 L23,151 L3,151 Z" id="icon-email-copy"></path>
+        </g>
+    </g>
+</svg>

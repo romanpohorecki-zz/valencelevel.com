@@ -7,7 +7,7 @@
     padding: 0;
 }
 
-.theme-dark, .theme-dark .button, .theme-dark button {
+.theme-dark, .theme-dark .button, .theme-dark button, .theme-dark h1 {
     color: #fff;
     border-color: #fff;`
 }
@@ -23,6 +23,16 @@ html, body{
 
 body {
     font-family: 'Open Sans', sans-serif;
+    color: #090035; 
+}
+
+a {
+    text-decoration: none;
+    color: #090035; 
+}
+
+a:visited {
+    color: #090035; 
 }
 
 ul {
@@ -30,15 +40,25 @@ ul {
 }
  
 
+h1 {
+    font-size: 2em;
+    margin-bottom: 40px;
+}
+
 h2 {
     margin-bottom: 20px;
 }
 
 header {
-    height: 600px;
-    background-image: url(../img/wedge.svg);
-    background-position: bottom;
-    padding: 6vw 0 0 0;
+    background-position: top;
+    background-repeat: no-repeat;
+    padding: 6vw 0 18vw 0;
+    background-size: 25%;
+}
+
+#contact header {
+    height: 80vw;
+    background: red url(img/contact-background.jpg);
 }
 
 
@@ -47,10 +67,25 @@ main {
     padding-top: 150px;
     position: relative;
     z-index: 1;
+    background-position: center top;
+    /*-webkit-clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
+    */
+}
+
+#contact main {
+    margin-top: -300px;
+    padding-top: 0;  
+    position: relative;
 }
 
 .section-padding {
     padding: 60px 0;
+}
+
+.section-contact {
+    top: -200px;
+    position: relative;
 }
 
 nav {
@@ -86,33 +121,109 @@ nav a, nav a:visited {
 }
 
 .layout-columns-2 .layout-column {
-    width: 48%;
+    width: 49%;
 }
 
 .layout-columns-3 .layout-column {
     width: 32.5%;
 }
 
+/* Slideshow */
+
+.slideshow {
+    position: relative;
+    height: 65%;
+    padding: 7.5% 0 0 0;
+}
+
+.slide-text {
+    width: 65%;
+    display: inline-block;
+}
+
+.slide-controls {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+
+.slide-control-left{
+    width: 13px;
+    height: 22px;
+    background-image: url(../img/icon-arrow-left.svg);
+    left: -10%;
+    position: absolute;
+}
+
+.slide-control-right {
+    width: 13px;
+    height: 22px;
+    background-image: url(../img/icon-arrow-right.svg);
+    right: -10%;
+    position: absolute;
+}
+
+.slide-counter {
+    display: flex;
+    margin: 40px 0 0 0;
+}
+
+.slide-counter a{
+    background-image: url(../img/icon-slide-counter.svg);
+    width: 13px;
+    height: 15px;
+    display: block;
+    margin-right: 20px;
+    opacity: .3;
+}
+
+a.slide-counter-active {
+    opacity: 1;
+    transform: scale(1.2);
+}
+
+.slide-control-left:hover, .slide-control-right:hover, a.slide-counter:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+/* Cards */
+
 .card, .card-transparent {
     background-color: #fff;
     border-radius: 3px;
     position: relative;
     filter: drop-shadow(0px 8px 4px rgba(0,0,0,.2));
+    display: block;
 }
 
 .card-transparent {
     background-color: rgba(255,255,255,.1);
     filter: none;
     text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.card-transparent p {
+    padding: 20px 0 20px 0;
 }
 
 .card-transparent img{
     max-width: 100%;
-    margin: 0 auto;
+    padding: 5%;
+    margin: 0 auto 20px auto;
     display: block;
 }
 
-.card-padding {
+.card-transparent button {
+    margin: 20px;
+}
+
+.layout-columns-2 .card-padding {
+    padding: 8%;
+}
+
+.layout-columns-3 .card-padding {
     padding: 5%;
 }
 
@@ -120,7 +231,7 @@ nav a, nav a:visited {
     font-size: .8em;
 }
 
-.card a, .card-transparent a{
+.card-link a{
     position: absolute;
     top: 0;
     right: 0;
@@ -133,6 +244,7 @@ nav a, nav a:visited {
     height: 20vw;
     width: 100%;
     background-position: center;
+    background-size: cover;
 }
 
 @media only screen and (max-width: 860px) {
@@ -393,6 +505,7 @@ button, .button {
     border-width: 1px;
     border-style: solid;
     background-color: transparent;
+    display: inline-block;
 }
 
 .background-gradient-1 {
@@ -401,14 +514,57 @@ button, .button {
 .background-gradient-2 {
     background-image: url(../img/background-gradient-2.svg);
     background-position: top right;
-    background-size: contain
+    background-size: cover;
 }
 
+.background-gradient-3 {
+    background-image: url(../img/background-gradient-3.svg);
+    background-position: top right;
+}
+
+.background-gradient-4 {
+    background-image: url(../img/background-gradient-4.svg);
+    background-position: top right;
+    background-size: cover;
+}
 
 .valence-diagram{
     background-image: url(../img/valence-diagram.svg), url(../img/background-gradient-2.svg);
-    background-size: 50vw, auto;
-    background-position: right 10%, center top;
+    background-size: 62vw, cover;
+    background-position: right 15%, center top;
+}
+
+/* Contact */
+
+.contact-address {
+    background-image: url(../img/icon-contact-location.svg);
+    background-position: 5px 6px;
+}
+
+.contact-email {
+    background-image: url(../img/icon-contact-email.svg);
+    background-position: left center;
+}
+
+.contact-phone {
+    background-image: url(../img/icon-contact-phone.svg);
+    background-position: left center;
+}
+
+.contact-list li{
+    height: 50px;
+    line-height: 50px;
+    font-size: .8em;
+    padding-left: 45px;
+}
+
+.contact-list li span {
+    line-height: 20px;
+    display: block;
+}
+
+.contact-list h3 {
+    padding: 0 0 20px 0;
 }
 
 /* Footer */
@@ -418,14 +574,18 @@ footer {
     padding: 100px 0 50px 0;
 }
 
+#contact footer {
+    margin-top: -250px;
+}
+
 .footer-shadow{
     content: "";
     display: block;
     width: 100%;
-    height: 20vw;
+    height: 10vw;
     background-image: url(../img/footer-shadow.png);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
 }   
 
 .contact-form {
@@ -435,6 +595,7 @@ footer {
     padding: 5%;
     justify-content: space-between;
     position: relative;
+    border-radius: 2px;
 }
 
 .contact-form-success {
