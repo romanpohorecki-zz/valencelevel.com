@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="590px" height="200px" viewBox="0 0 590 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>diagram-time-off</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-08-Company-Careers" transform="translate(-121.000000, -1482.000000)">
+            <g id="diagram-time-off" transform="translate(121.000000, 1482.000000)">
+                <rect id="Rectangle-21" stroke="#FFFFFF" x="0.5" y="0.5" width="589" height="199"></rect>
+                <g id="Group-10" transform="translate(125.000000, 35.000000)">
+                    <polygon id="Polygon-Copy-36" stroke="#06002E" stroke-linecap="round" stroke-linejoin="round" points="166 40 205 62.5 205 107.5 166 130 127 107.5 127 62.5"></polygon>
+                    <polygon id="Polygon-Copy-37" stroke="#06002E" stroke-linecap="round" stroke-linejoin="round" points="255.011851 11.1961524 279.523702 25.3480762 279.523702 53.6519238 255.011851 67.8038476 230.5 53.6519238 230.5 25.3480762"></polygon>
+                    <circle id="Oval-12" stroke="#06002E" cx="254.5" cy="39.5" r="8.5"></circle>
+                    <path d="M255,28.6428571 L255,24.6428571" id="Line-5" stroke="#06002E" stroke-linecap="round"></path>
+                    <path d="M265,40 L269,40" id="Line-5-Copy-6" stroke="#06002E" stroke-linecap="round"></path>
+                    <path d="M263,32 L265.828427,29.1715729" id="Line-5-Copy-3" stroke="#06002E" stroke-linecap="round"></path>
+                    <path d="M254,54.3571429 L254,50.3571429" id="Line-5" stroke="#06002E" stroke-linecap="round" transform="translate(254.000000, 52.357143) rotate(-180.000000) translate(-254.000000, -52.357143) "></path>
+                    <path d="M240,40 L244,40" id="Line-5-Copy-6" stroke="#06002E" stroke-linecap="round" transform="translate(242.000000, 40.000000) rotate(-180.000000) translate(-242.000000, -40.000000) "></path>
+                    <path d="M243.171573,50.8284271 L246,48" id="Line-5-Copy-3" stroke="#06002E" stroke-linecap="round" transform="translate(244.585786, 49.414214) rotate(-180.000000) translate(-244.585786, -49.414214) "></path>
+                    <path d="M261.454416,50.8284271 L264.282843,48" id="Line-5-Copy-3" stroke="#06002E" stroke-linecap="round" transform="translate(262.868629, 49.414214) rotate(-270.000000) translate(-262.868629, -49.414214) "></path>
+                    <path d="M243.454416,31.8284271 L246.282843,29" id="Line-5-Copy-3" stroke="#06002E" stroke-linecap="round" transform="translate(244.868629, 30.414214) rotate(-270.000000) translate(-244.868629, -30.414214) "></path>
+                    <rect id="Rectangle-14" stroke="#06002E" stroke-width="2" x="146" y="64" width="39" height="39" rx="3"></rect>
+                    <path d="M154.035534,75.9644661 L149.969143,80.0308569" id="Line-13" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M163.035534,75.9644661 L158.969143,80.0308569" id="Line-13-Copy" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M172.035534,75.9644661 L167.969143,80.0308569" id="Line-13-Copy-2" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M181.035534,75.9644661 L176.969143,80.0308569" id="Line-13-Copy-3" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M154.035534,84.9644661 L149.969143,89.0308569" id="Line-13-Copy-4" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M163.035534,84.9644661 L158.969143,89.0308569" id="Line-13-Copy-5" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M172.035534,84.9644661 L167.969143,89.0308569" id="Line-13-Copy-6" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M181.035534,84.9644661 L176.969143,89.0308569" id="Line-13-Copy-7" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M154.035534,93.9644661 L149.969143,98.0308569" id="Line-13-Copy-8" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M145.471011,71 L184.293997,71" id="Line-6" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M179,59.75 L179,67.25" id="Line-7" stroke="#06002E" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M153,59.75 L153,67.25" id="Line-7-Copy" stroke="#06002E" stroke-width="2" stroke-linecap="round"></path>
+                    <rect id="Rectangle-15" stroke="#06002E" x="149.5" y="75.5" width="5" height="5"></rect>
+                    <rect id="Rectangle-15-Copy-3" stroke="#06002E" x="149.5" y="84.5" width="5" height="5"></rect>
+                    <rect id="Rectangle-15-Copy-6" stroke="#06002E" x="149.5" y="93.5" width="5" height="5"></rect>
+                    <rect id="Rectangle-15-Copy" stroke="#06002E" x="158.5" y="75.5" width="5" height="5"></rect>
+                    <rect id="Rectangle-15-Copy-4" stroke="#06002E" x="158.5" y="84.5" width="5" height="5"></rect>
+                    <rect id="Rectangle-15-Copy-7" stroke="#06002E" x="158.5" y="93.5" width="5" height="5"></rect>
+                    <rect id="Rectangle-15-Copy-10" stroke="#06002E" x="167.5" y="93.5" width="5" height="5"></rect>
+                    <rect id="Rectangle-15-Copy-2" stroke="#06002E" x="167.5" y="75.5" width="5" height="5"></rect>
+                    <rect id="Rectangle-15-Copy-8" stroke="#06002E" x="176.5" y="75.5" width="5" height="5"></rect>
+                    <rect id="Rectangle-15-Copy-5" stroke="#06002E" x="167.5" y="84.5" width="5" height="5"></rect>
+                    <rect id="Rectangle-15-Copy-9" stroke="#06002E" x="176.5" y="84.5" width="5" height="5"></rect>
+                    <g id="Group-8" transform="translate(68.000000, 18.000000)" stroke="#06002E">
+                        <polygon id="Polygon-Copy-38" stroke-linecap="round" stroke-linejoin="round" points="19.0525589 0 38.1051178 11 38.1051178 33 19.0525589 44 4.17443857e-14 33 2.97539771e-14 11"></polygon>
+                        <rect id="Rectangle-20" x="9.5" y="14.5" width="20" height="14" rx="2"></rect>
+                        <path d="M23,15 C23,13.3431458 21.4329966,12 19.5,12 C17.5670034,12 16,13.3431458 16,15" id="Oval-13"></path>
+                        <circle id="Oval-14" cx="19.5" cy="21.5" r="2.5"></circle>
+                        <path d="M13.5,27.5 L13.5,14.5" id="Line-14" stroke-linecap="square"></path>
+                        <path d="M25.5,27.5 L25.5,14.5" id="Line-14-Copy" stroke-linecap="square"></path>
+                    </g>
+                    <polygon id="Polygon-Copy-60" stroke="#3A76FF" stroke-linecap="round" stroke-linejoin="round" points="4.33012702 51 8.66025404 53.5 8.66025404 58.5 4.33012702 61 -7.77156117e-16 58.5 -3.55271368e-15 53.5"></polygon>
+                    <polygon id="Polygon-Copy-57" stroke="#3A76FF" stroke-linecap="round" stroke-linejoin="round" points="198.330127 0 202.660254 2.5 202.660254 7.5 198.330127 10 194 7.5 194 2.5"></polygon>
+                    <polygon id="Polygon-Copy-58" stroke="#FE006A" stroke-linecap="round" stroke-linejoin="round" points="75.330127 96 79.660254 98.5 79.660254 103.5 75.330127 106 71 103.5 71 98.5"></polygon>
+                    <polygon id="Polygon-Copy-59" stroke="#00CD90" stroke-linecap="round" stroke-linejoin="round" points="335.330127 52 339.660254 54.5 339.660254 59.5 335.330127 62 331 59.5 331 54.5"></polygon>
+                    <polygon id="Polygon-Copy-61" stroke="#00CD90" stroke-linecap="round" stroke-linejoin="round" points="255.330127 90 259.660254 92.5 259.660254 97.5 255.330127 100 251 97.5 251 92.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

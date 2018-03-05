@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="590px" height="200px" viewBox="0 0 590 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>diagram-team-building</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-08-Company-Careers" transform="translate(-731.000000, -1482.000000)">
+            <g id="diagram-team-building" transform="translate(731.000000, 1482.000000)">
+                <rect id="Rectangle-21" stroke="#FFFFFF" x="0.5" y="0.5" width="589" height="199"></rect>
+                <g id="Group-17" transform="translate(121.000000, 43.000000)">
+                    <polygon id="Polygon-Copy-39" stroke="#06002E" stroke-linecap="round" stroke-linejoin="round" points="169 22 208 44.5 208 89.5 169 112 130 89.5 130 44.5"></polygon>
+                    <polygon id="Polygon-Copy-40" stroke="#06002E" stroke-linecap="round" stroke-linejoin="round" points="264 60 288 73.75 288 101.25 264 115 240 101.25 240 73.75"></polygon>
+                    <polygon id="Polygon-Copy-41" stroke="#06002E" stroke-linecap="round" stroke-linejoin="round" points="76 26 100 39.75 100 67.25 76 81 52 67.25 52 39.75"></polygon>
+                    <g id="Group-6" transform="translate(161.000000, 76.000000)" fill-rule="nonzero" stroke="#06002E">
+                        <path d="M15.9447323,14.4937238 L15.8894646,14.3430962 C14.3972366,11.7573222 11.4127807,10 7.98618307,10 C4.55958549,10 1.57512953,11.7573222 0.0829015544,14.3179916 L0.0276338515,14.4686192 C0,14.5188285 0,14.5941423 0,14.6694561 L0,15.2970711 C0,15.6736402 0.359240069,16 0.773747841,16 L7.98618307,16 L15.2262522,16 C15.6407599,16 16,15.6736402 16,15.2970711 L16,14.6694561 C16,14.6192469 15.9723661,14.5439331 15.9447323,14.4937238 Z" id="Shape"></path>
+                        <circle id="Oval" cx="8" cy="4" r="4"></circle>
+                    </g>
+                    <g id="Group-6-Copy" transform="translate(179.000000, 49.000000)" fill-rule="nonzero" stroke="#06002E">
+                        <path d="M15.9447323,14.4937238 L15.8894646,14.3430962 C14.3972366,11.7573222 11.4127807,10 7.98618307,10 C4.55958549,10 1.57512953,11.7573222 0.0829015544,14.3179916 L0.0276338515,14.4686192 C0,14.5188285 0,14.5941423 0,14.6694561 L0,15.2970711 C0,15.6736402 0.359240069,16 0.773747841,16 L7.98618307,16 L15.2262522,16 C15.6407599,16 16,15.6736402 16,15.2970711 L16,14.6694561 C16,14.6192469 15.9723661,14.5439331 15.9447323,14.4937238 Z" id="Shape"></path>
+                        <circle id="Oval" cx="8" cy="4" r="4"></circle>
+                    </g>
+                    <g id="Group-6-Copy-2" transform="translate(143.000000, 48.000000)" fill-rule="nonzero" stroke="#06002E">
+                        <path d="M15.9447323,14.4937238 L15.8894646,14.3430962 C14.3972366,11.7573222 11.4127807,10 7.98618307,10 C4.55958549,10 1.57512953,11.7573222 0.0829015544,14.3179916 L0.0276338515,14.4686192 C0,14.5188285 0,14.5941423 0,14.6694561 L0,15.2970711 C0,15.6736402 0.359240069,16 0.773747841,16 L7.98618307,16 L15.2262522,16 C15.6407599,16 16,15.6736402 16,15.2970711 L16,14.6694561 C16,14.6192469 15.9723661,14.5439331 15.9447323,14.4937238 Z" id="Shape"></path>
+                        <circle id="Oval" cx="8" cy="4" r="4"></circle>
+                    </g>
+                    <polygon id="Star-2" stroke="#06002E" points="263 80 259.473288 81.854102 260.14683 77.927051 257.293661 75.145898 261.236644 74.572949 263 71 264.763356 74.572949 268.706339 75.145898 265.85317 77.927051 266.526712 81.854102"></polygon>
+                    <polygon id="Star-2-Copy" stroke="#06002E" points="277 85.8042572 274.527864 87 275 84.4673762 273 82.6737621 275.763932 82.3042572 277 80 278.236068 82.3042572 281 82.6737621 279 84.4673762 279.472136 87"></polygon>
+                    <polygon id="Star-2-Copy-2" stroke="#06002E" points="250 85.8042572 247.527864 87 248 84.4673762 246 82.6737621 248.763932 82.3042572 250 80 251.236068 82.3042572 254 82.6737621 252 84.4673762 252.472136 87"></polygon>
+                    <path d="M252,90 C258,92.6567152 261,97.9900486 261,106" id="Path-23" stroke="#06002E" stroke-linecap="round"></path>
+                    <path d="M266,90 C272,92.6567152 275,97.9900486 275,106" id="Path-23-Copy" stroke="#06002E" stroke-linecap="round" transform="translate(270.500000, 98.000000) scale(-1, 1) translate(-270.500000, -98.000000) "></path>
+                    <path d="M263.5,107.712818 L263.5,86.4615952" id="Line-8" stroke="#06002E" stroke-linecap="round"></path>
+                    <circle id="Oval-15" stroke="#06002E" cx="274.5" cy="75.5" r="1.5"></circle>
+                    <circle id="Oval-15-Copy" stroke="#06002E" cx="252.5" cy="75.5" r="1.5"></circle>
+                    <polygon id="Triangle-2" stroke="#06002E" transform="translate(82.500000, 53.500000) scale(1, -1) translate(-82.500000, -53.500000) " points="82.5 49 91 58 74 58"></polygon>
+                    <path d="M82.5,58.5 L82.5,67.5" id="Line-9" stroke="#06002E" stroke-linecap="square"></path>
+                    <path d="M78,68 L88,68" id="Line-10" stroke="#06002E" stroke-linecap="square"></path>
+                    <polygon id="Path-24" stroke="#06002E" points="60 46 70 46 69.0064426 61 60.8002186 61"></polygon>
+                    <path d="M60.5,50.5 L69.5,50.5" id="Line-11" stroke="#06002E" stroke-linecap="square"></path>
+                    <polyline id="Path-25" stroke="#06002E" points="66 50 67.3983434 39 73 39"></polyline>
+                    <circle id="Oval-2" stroke="#06002E" cx="82.5" cy="52.5" r="1.5"></circle>
+                    <path d="M62.5,52.5 L67.5,52.5" id="Line-12" stroke="#06002E" opacity="0.5" stroke-linecap="square"></path>
+                    <path d="M159.473748,54.5 L178.533296,54.5" id="Line-15" stroke="#06002E" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M177.5,80.5 L188.533296,69.5" id="Line-15-Copy" stroke="#06002E" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M149.5,80.5 L160.533296,69.5" id="Line-15-Copy-2" stroke="#06002E" stroke-width="2" stroke-linecap="round" transform="translate(155.000000, 75.000000) scale(-1, 1) translate(-155.000000, -75.000000) "></path>
+                    <polygon id="Polygon-Copy-54" stroke="#3A76FF" stroke-linecap="round" stroke-linejoin="round" points="323.330127 64 327.660254 66.5 327.660254 71.5 323.330127 74 319 71.5 319 66.5"></polygon>
+                    <polygon id="Polygon-Copy-56" stroke="#3A76FF" stroke-linecap="round" stroke-linejoin="round" points="219.330127 8 223.660254 10.5 223.660254 15.5 219.330127 18 215 15.5 215 10.5"></polygon>
+                    <polygon id="Polygon-Copy-52" stroke="#FE006A" stroke-linecap="round" stroke-linejoin="round" points="310.330127 12 314.660254 14.5 314.660254 19.5 310.330127 22 306 19.5 306 14.5"></polygon>
+                    <polygon id="Polygon-Copy-55" stroke="#00CD90" stroke-linecap="round" stroke-linejoin="round" points="52.330127 0 56.660254 2.5 56.660254 7.5 52.330127 10 48 7.5 48 2.5"></polygon>
+                    <polygon id="Polygon-Copy-53" stroke="#00CD90" stroke-linecap="round" stroke-linejoin="round" points="4.33012702 77 8.66025404 79.5 8.66025404 84.5 4.33012702 87 -7.77156117e-16 84.5 -3.55271368e-15 79.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

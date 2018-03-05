@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="465px" height="465px" viewBox="0 0 465 465" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="21.2070975%" cy="9.30174651%" fx="21.2070975%" fy="9.30174651%" r="72.4067944%" id="radialGradient-1">
+            <stop stop-color="#92DEDA" offset="0%"></stop>
+            <stop stop-color="#080430" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Desktop-09-Company-Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-867.000000, -169.000000)">
+        <circle id="Oval" fill="url(#radialGradient-1)" cx="1099.5" cy="401.5" r="232.5"></circle>
+    </g>
+</svg>
